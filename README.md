@@ -16,8 +16,8 @@
 #### 安装教程
 
 1.扫码下载
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0313/145030_427fdf01_1090925.jpeg "532cea22fd4411fc1185914f039b1d6.jpg")
-
+![输入图片说明]![mmexport1626950970958](https://user-images.githubusercontent.com/32893570/126628183-05d218b6-784d-413c-b430-a2a246612c2b.png)
+()
 #### 使用说明
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0323/173215_10c1cc7f_1090925.jpeg "944106311.jpg")
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0304/140553_d5b90368_1090925.png "02.png")
